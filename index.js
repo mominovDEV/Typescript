@@ -1,5 +1,3 @@
 "use strict";
-console.log("hello typescrpt");
-console.log("salom dunyo");
-throw new Error("some errror");
+console.log(true + 3);
 //# sourceMappingURL=index.js.map
